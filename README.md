@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vaibhav
-**A passionate Full Stack devloper || Game Devloper Engineer **
+**A passionate Full Stack devloper || Game Devloper Engineer**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav.pareta.2004@gmail.com) 
